@@ -3,10 +3,14 @@
  
  User stories
  • Different kinds of difficulty for user to choose;
+ 
  • Move objects manually to get out of the maze;
- • Auto generating and finding a path in the maze;
- • Auto generating and finding a path in the maze
- • Animation;
+
+• Auto generating and finding a path in the maze;
+
+• Auto generating and finding a path in the maze
+
+• Animation;
  
  Implementations
  
