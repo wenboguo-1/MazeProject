@@ -2,15 +2,15 @@
  A sample designed game that allows players to explore the maze
  
  User stories
- • Different kinds of difficulty for user to choose 
- • Move objects manually to get out of the maze 
+ • Different kinds of difficulty for user to choose;
+ • Move objects manually to get out of the maze;
+ • Auto generating and finding a path in the maze;
  • Auto generating and finding a path in the maze
- • Auto generating and finding a path in the maze
- • Animation
+ • Animation;
  
  Implementations
  
- • Implemented based on java GUI components with MVC pattern and DFS algorithm
+ • Implemented based on java GUI components with MVC pattern and DFS algorithm;
 
 
 ## Video Walkthrough
