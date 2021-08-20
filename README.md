@@ -23,4 +23,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/BPib2KL1H4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<img src='http://g.recordit.co/ykHhfGOrbR.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 Maze Game Project
